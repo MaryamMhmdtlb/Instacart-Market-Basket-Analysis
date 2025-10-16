@@ -1,0 +1,442 @@
+department1,department2,bought_together
+produce,produce,1205934
+dairy eggs,produce,513109
+produce,dairy eggs,450148
+dairy eggs,dairy eggs,301431
+produce,snacks,255231
+produce,frozen,220169
+produce,pantry,214257
+beverages,produce,194481
+snacks,produce,187806
+produce,beverages,174807
+frozen,produce,171477
+dairy eggs,snacks,170166
+snacks,snacks,147969
+dairy eggs,frozen,142860
+pantry,produce,138025
+produce,canned goods,134609
+dairy eggs,pantry,122450
+dairy eggs,beverages,116875
+beverages,dairy eggs,115518
+snacks,dairy eggs,112950
+produce,dry goods pasta,107740
+produce,deli,107409
+beverages,beverages,107300
+frozen,frozen,105646
+produce,bakery,104114
+bakery,produce,99408
+frozen,dairy eggs,98521
+canned goods,produce,96767
+beverages,snacks,93984
+deli,produce,93138
+produce,meat seafood,76932
+dry goods pasta,produce,72566
+frozen,snacks,71519
+pantry,dairy eggs,71394
+snacks,frozen,70589
+dairy eggs,canned goods,69548
+dairy eggs,bakery,68733
+meat seafood,produce,68360
+beverages,frozen,66821
+dairy eggs,dry goods pasta,64922
+snacks,beverages,64384
+dairy eggs,deli,63738
+produce,breakfast,62692
+pantry,pantry,62648
+bakery,dairy eggs,59626
+produce,household,56894
+snacks,pantry,56721
+beverages,pantry,52189
+frozen,pantry,50147
+breakfast,produce,49195
+deli,dairy eggs,49055
+frozen,beverages,47166
+dairy eggs,breakfast,47062
+pantry,snacks,46909
+canned goods,dairy eggs,45523
+dairy eggs,meat seafood,42498
+dairy eggs,household,41373
+household,produce,41155
+pantry,frozen,39201
+dry goods pasta,dairy eggs,38963
+produce,personal care,38480
+bakery,snacks,37914
+produce,babies,37145
+deli,snacks,34908
+produce,international,34158
+pantry,beverages,32412
+meat seafood,dairy eggs,31982
+breakfast,dairy eggs,31807
+bakery,frozen,31617
+frozen,canned goods,30863
+snacks,deli,30760
+canned goods,canned goods,29522
+beverages,household,29444
+snacks,canned goods,29429
+snacks,bakery,29406
+beverages,bakery,29131
+beverages,canned goods,29088
+canned goods,pantry,29030
+deli,frozen,28771
+household,household,28769
+frozen,dry goods pasta,28738
+babies,produce,28548
+snacks,dry goods pasta,28172
+beverages,deli,27945
+babies,babies,27770
+bakery,pantry,27210
+canned goods,snacks,27190
+canned goods,frozen,27059
+dairy eggs,babies,26241
+breakfast,snacks,26130
+dairy eggs,personal care,26105
+frozen,bakery,26088
+household,dairy eggs,26008
+snacks,breakfast,25968
+frozen,deli,25918
+beverages,dry goods pasta,25317
+dry goods pasta,frozen,24887
+pantry,canned goods,24790
+bakery,beverages,24575
+dry goods pasta,snacks,24278
+international,produce,24081
+personal care,produce,23781
+snacks,household,23296
+deli,pantry,22458
+dry goods pasta,pantry,22332
+produce,missing,21921
+beverages,breakfast,21288
+deli,beverages,20908
+household,snacks,20220
+pantry,dry goods pasta,20105
+dry goods pasta,dry goods pasta,19830
+canned goods,beverages,18760
+frozen,breakfast,18643
+frozen,household,18323
+meat seafood,snacks,18301
+breakfast,frozen,18149
+household,beverages,17915
+pantry,bakery,17885
+meat seafood,frozen,17777
+dairy eggs,international,17562
+meat seafood,pantry,17352
+beverages,personal care,17303
+beverages,meat seafood,17262
+snacks,meat seafood,17009
+frozen,meat seafood,16952
+household,pantry,16929
+babies,dairy eggs,16893
+household,frozen,16723
+deli,deli,16515
+missing,produce,16430
+canned goods,dry goods pasta,16083
+pantry,deli,15935
+bakery,bakery,15768
+dry goods pasta,beverages,15690
+pantry,household,15506
+bakery,canned goods,15433
+breakfast,beverages,15254
+breakfast,pantry,15160
+bakery,dry goods pasta,15152
+snacks,personal care,15101
+bakery,deli,15036
+dry goods pasta,canned goods,14659
+personal care,dairy eggs,14139
+deli,canned goods,13554
+deli,bakery,13283
+frozen,personal care,12649
+meat seafood,beverages,12641
+dairy eggs,missing,12507
+deli,dry goods pasta,12289
+pantry,meat seafood,12043
+pantry,breakfast,11990
+breakfast,breakfast,11525
+personal care,snacks,11441
+canned goods,bakery,11318
+meat seafood,canned goods,11078
+personal care,personal care,11051
+babies,snacks,10797
+international,dairy eggs,10679
+bakery,breakfast,10593
+canned goods,deli,10435
+household,personal care,10431
+dry goods pasta,bakery,10059
+bakery,household,9981
+snacks,babies,9949
+personal care,beverages,9679
+babies,frozen,9665
+bakery,meat seafood,9596
+personal care,frozen,9419
+meat seafood,dry goods pasta,9410
+pantry,personal care,9333
+dry goods pasta,deli,8975
+beverages,babies,8942
+meat seafood,bakery,8817
+frozen,babies,8709
+canned goods,household,8572
+personal care,pantry,8535
+breakfast,bakery,8482
+household,canned goods,8438
+breakfast,dry goods pasta,8412
+breakfast,canned goods,8327
+missing,dairy eggs,8323
+canned goods,meat seafood,8241
+snacks,international,8117
+deli,breakfast,7949
+deli,meat seafood,7910
+frozen,international,7845
+personal care,household,7752
+canned goods,breakfast,7648
+beverages,international,7568
+international,pantry,7551
+dry goods pasta,household,7457
+meat seafood,meat seafood,7441
+meat seafood,deli,7408
+dry goods pasta,meat seafood,7401
+household,dry goods pasta,7333
+household,bakery,7321
+pantry,international,7229
+international,snacks,7097
+deli,household,7088
+dry goods pasta,breakfast,7023
+breakfast,deli,6942
+breakfast,household,6864
+international,frozen,6513
+babies,pantry,6322
+snacks,missing,6002
+babies,beverages,5978
+beverages,missing,5939
+missing,snacks,5866
+bakery,personal care,5807
+household,deli,5626
+pets,produce,5598
+household,breakfast,5546
+alcohol,alcohol,5463
+canned goods,personal care,5415
+frozen,missing,5398
+meat seafood,household,5364
+missing,frozen,5314
+produce,pets,5129
+canned goods,international,5102
+pantry,babies,4918
+deli,personal care,4869
+meat seafood,breakfast,4813
+pets,pets,4727
+international,canned goods,4594
+international,beverages,4593
+breakfast,meat seafood,4589
+dry goods pasta,personal care,4580
+babies,dry goods pasta,4546
+personal care,canned goods,4512
+household,meat seafood,4482
+babies,canned goods,4434
+breakfast,personal care,4297
+dairy eggs,pets,4281
+bakery,babies,4266
+produce,bulk,4242
+missing,beverages,4129
+pets,dairy eggs,4099
+alcohol,produce,4080
+canned goods,babies,4039
+deli,babies,4012
+bakery,international,4009
+deli,international,3877
+missing,pantry,3866
+dry goods pasta,international,3842
+produce,other,3828
+personal care,dry goods pasta,3731
+produce,alcohol,3680
+personal care,bakery,3627
+babies,bakery,3519
+dry goods pasta,babies,3475
+international,dry goods pasta,3405
+pantry,missing,3388
+babies,deli,3364
+beverages,pets,3315
+bulk,produce,3313
+personal care,deli,3296
+babies,household,3239
+meat seafood,personal care,3209
+dairy eggs,alcohol,3140
+alcohol,dairy eggs,3067
+international,international,2971
+pets,snacks,2949
+pets,frozen,2926
+breakfast,babies,2904
+beverages,alcohol,2894
+international,deli,2840
+alcohol,beverages,2828
+household,babies,2811
+personal care,breakfast,2780
+international,bakery,2757
+meat seafood,international,2727
+pets,beverages,2725
+babies,breakfast,2710
+other,produce,2693
+alcohol,snacks,2658
+snacks,pets,2431
+meat seafood,babies,2355
+frozen,pets,2352
+babies,meat seafood,2330
+deli,missing,2313
+pets,household,2291
+pets,pantry,2247
+babies,personal care,2192
+personal care,meat seafood,2189
+missing,canned goods,2175
+snacks,alcohol,2173
+bakery,missing,2157
+breakfast,international,2128
+household,international,2100
+dairy eggs,other,2030
+alcohol,frozen,1986
+missing,deli,1969
+canned goods,missing,1940
+international,meat seafood,1930
+international,household,1874
+missing,bakery,1869
+dairy eggs,bulk,1843
+missing,missing,1740
+missing,dry goods pasta,1692
+alcohol,pantry,1652
+dry goods pasta,missing,1610
+international,breakfast,1599
+personal care,babies,1595
+frozen,alcohol,1557
+household,pets,1515
+other,dairy eggs,1475
+pets,canned goods,1432
+babies,missing,1403
+meat seafood,missing,1370
+pets,personal care,1349
+alcohol,household,1344
+breakfast,missing,1300
+pantry,pets,1268
+missing,breakfast,1266
+international,personal care,1235
+pantry,alcohol,1230
+beverages,other,1195
+household,missing,1182
+missing,meat seafood,1173
+pets,bakery,1142
+bulk,dairy eggs,1135
+missing,babies,1129
+missing,household,1120
+other,snacks,1115
+personal care,international,1105
+pets,dry goods pasta,1097
+bakery,pets,1087
+snacks,other,1075
+bulk,snacks,1066
+alcohol,bakery,1031
+bakery,alcohol,1012
+household,alcohol,1000
+missing,personal care,937
+other,frozen,928
+frozen,other,927
+babies,international,922
+canned goods,pets,918
+pets,deli,903
+other,beverages,894
+alcohol,deli,875
+other,pantry,872
+snacks,bulk,856
+deli,pets,799
+international,babies,781
+deli,alcohol,774
+alcohol,canned goods,761
+personal care,missing,734
+beverages,bulk,731
+pantry,other,727
+pets,breakfast,723
+alcohol,dry goods pasta,703
+pets,meat seafood,692
+personal care,pets,682
+breakfast,pets,655
+missing,international,654
+dry goods pasta,pets,635
+canned goods,alcohol,632
+bulk,pantry,597
+bulk,frozen,568
+international,missing,565
+meat seafood,pets,565
+frozen,bulk,544
+alcohol,meat seafood,537
+meat seafood,alcohol,536
+bulk,beverages,531
+pantry,bulk,525
+dry goods pasta,alcohol,504
+household,other,495
+other,household,465
+breakfast,alcohol,463
+other,canned goods,456
+bakery,other,435
+alcohol,personal care,410
+alcohol,breakfast,408
+canned goods,other,398
+other,personal care,397
+other,bakery,387
+other,dry goods pasta,380
+deli,bulk,375
+deli,other,366
+canned goods,bulk,363
+personal care,other,339
+other,deli,334
+bulk,deli,333
+bakery,bulk,329
+bulk,canned goods,327
+dry goods pasta,other,324
+pets,international,316
+personal care,alcohol,283
+babies,other,274
+breakfast,other,273
+bulk,dry goods pasta,265
+meat seafood,other,264
+alcohol,international,256
+dry goods pasta,bulk,254
+other,breakfast,241
+pets,missing,239
+bulk,bakery,235
+other,meat seafood,219
+international,pets,205
+alcohol,other,198
+breakfast,bulk,197
+babies,pets,190
+missing,pets,189
+alcohol,pets,188
+international,alcohol,182
+meat seafood,bulk,178
+other,babies,178
+bulk,meat seafood,160
+pets,babies,158
+bulk,breakfast,158
+pets,alcohol,149
+other,alcohol,131
+bulk,babies,127
+other,international,122
+alcohol,missing,119
+babies,alcohol,117
+international,other,113
+bulk,personal care,109
+bulk,household,106
+household,bulk,99
+alcohol,babies,97
+babies,bulk,93
+other,missing,88
+personal care,bulk,86
+international,bulk,82
+missing,other,82
+missing,alcohol,81
+bulk,international,79
+other,other,77
+other,pets,74
+bulk,missing,66
+missing,bulk,63
+pets,other,55
+bulk,bulk,37
+bulk,other,20
+pets,bulk,14
+other,bulk,13
+bulk,pets,4
+bulk,alcohol,2
+alcohol,bulk,1
