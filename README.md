@@ -173,20 +173,6 @@ Each dashboard focuses on a specific business question.
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository
-2. Import `queries.sql` into MySQL
-3. Run `add_data.ipynb` for preprocessing
-4. Connect Power BI to MySQL and load the created views:
-
-   * `v_department_summary`
-   * `v_aisle_pairs_small`
-   * `product_pairs_train`
-5. Open the Power BI file and refresh data sources.
-
----
-
 ## 🧾 Folder Structure
 
 ```
